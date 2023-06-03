@@ -1,0 +1,22 @@
+.line-container {
+    height: 20px; 
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-left: 5%;
+  }
+  
+  .line {
+    width: 220px;
+    height: 3px; 
+    background-color: #FA41B6; 
+  }
+  
+  .circle {
+    margin-top: -4px;
+    width: 12px; 
+    height: 12px; 
+    border-radius: 50%;
+    background-color: #FA41B6; 
+  }
+  

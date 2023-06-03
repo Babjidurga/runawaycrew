@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Bree+Serif&family=Poppins:wght@600&family=Roboto+Serif:wght@100;300&family=Roboto+Slab:wght@100&family=Roboto:wght@100&display=swap');
+
+.work-page{
+  background-color: #f0164c;
+  display: flex;
+  flex-direction: column;
+  height: 89vh;
+  padding-left:5% ;
+}
+.container{
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 100px;
+  gap: 100px;
+}
+.work-page h1{
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-left:70px;
+  font-family: "Bree serif";
+
+}
+.container h2{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 650;
+}
+.container p{
+  color: white;
+  font-size: 14px;
+  font-weight: 650;
+}
+.line-container-yel {
+  height: 20px; 
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin-left: 5%;
+}
+
+.line-yel {
+  width: 600px;
+  height: 2px; 
+  background-color: #f6fa24; 
+}
+
+.circle-yel {
+  margin-top: -4px;
+  width: 12px; 
+  height: 12px; 
+  border-radius: 50%;
+  background-color: #f6fa24; 
+}
+.process{
+  font-size: 200px;
+  color: rgb(198, 196, 196);
+  font-weight: 700;
+  margin-left: 37%;
+  margin-top: -5%;
+  font-family: "Poppins";
+}
