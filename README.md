@@ -7,13 +7,26 @@ Welcome to Runaway Crew Services! This is a platform where you can find various 
 
 To get started with Runaway Crew Services, follow these steps:
 
-1. Visit our website at [https://runawaycrew.vercel.app/services](https://runawaycrew.vercel.app/services).
+1. Visit our website at [https://runawaycrew.vercel.app/services](https://runawaycrew.vercel.app/).
 2. Browse through the available services listed on the website.
 3. Select a service that suits your needs and click on it to view more details.
 4. Review the service description, pricing, and any additional information provided.
 5. If you're interested in the service, click on the "Contact" button to get in touch with the service provider.
 6. Coordinate with the service provider to discuss your requirements, timeline, and any other specifics.
 7. Once you've reached an agreement with the service provider, you can proceed with the project or task.
+
+##you can see how the website appears
+
+#AboutUs
+![image](https://github.com/Babjidurga/runawaycrew/assets/113676689/b8c4a748-cb3f-4531-a10c-4d44c4b542c1) 
+
+#Work Process
+![image](https://github.com/Babjidurga/runawaycrew/assets/113676689/e7e40ea2-47c3-44c9-8542-5d63259f96f8)
+
+#Our services
+![image](https://github.com/Babjidurga/runawaycrew/assets/113676689/09eb521b-c603-445a-800a-b3e1ec591284)
+
+
 
 ## Features
 
@@ -36,10 +49,6 @@ If you are interested in joining the Runaway Crew and offering your services, pl
 ## Support
 
 If you encounter any issues or have any questions about Runaway Crew Services, please reach out to our support team at support@runawaycrew.com.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
